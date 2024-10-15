@@ -11,7 +11,7 @@ Create a stunning animated background using Metal and SwiftUI. This project demo
 
 ## Preview
 
-https://github.com/user-attachments/assets/6dd6c7fc-ce2d-4a2b-bab0-b7802af37a5a
+https://github.com/user-attachments/assets/2338abfd-5559-486e-8aee-0db5b4641056
 
 ## Requirements
 
